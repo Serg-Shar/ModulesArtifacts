@@ -14,3 +14,6 @@ dependencyResolutionManagement {
 }
 rootProject.name = "ModulesArtifacts"
 include ':app'
+include ':feature1'
+include ':core'
+include ':feature2'
